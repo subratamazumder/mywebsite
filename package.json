@@ -1,0 +1,29 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "This is subrata's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "to be added"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subratamazumder/mywebsite.git"
+  },
+  "keywords": [
+    "angualr4",
+    "aws"
+  ],
+  "author": "Subrata Mazumder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subratamazumder/mywebsite/issues"
+  },
+  "homepage": "https://github.com/subratamazumder/mywebsite#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.4.0",
+    "zone.js": "^0.8.12"
+  }
+}
